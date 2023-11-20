@@ -18,4 +18,5 @@ Code and datafiles used in the AM10 course
 | Study Group   | SG Members           |Github ID                      |Github Repo for final project        | URL address for final project       |Date Added     |  
 |:--------------|:---------------------|:------------------------------------------------------|:-----------------------|:-------------------------------------|:-----------------------| 
 | 00     |Member x, member y |kostis-christodoulou |<https://github.com/>|<N/A>     | 2023-11-01 |
+| 14     |Rurong Zhou, Misri Parikh, Wenjun Lu, Pietro Pollarini, Arjun Satwani |Arjun918 |<https://github.com/Arjun918/DataVizGroup14>|<N/A>	| 2023-11-20 | 
 
